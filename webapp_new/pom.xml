@@ -13,7 +13,7 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
   
-  <distributinonManagement>
+  <distributionManagement>
     <repository>
       <id>releases</id>
       <url>http://13.59.205.181:8080/nexus-2.14.8-01/content/repositories/releases/</url>
